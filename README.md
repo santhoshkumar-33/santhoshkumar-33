@@ -34,11 +34,6 @@ I'm an MCA Graduate and an aspiring software developer who loves building impact
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- GitHub (black version) -->
-  <a href="https://github.com/santhoshkumars-sk">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/santhoshkumar33/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
@@ -63,8 +58,7 @@ I'm an MCA Graduate and an aspiring software developer who loves building impact
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-  <!-- FIXED GitHub Icon (black) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="background-color:white; border-radius:5px; padding:2px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -80,7 +74,6 @@ I'm an MCA Graduate and an aspiring software developer who loves building impact
 
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/svg/lakehouse.svg" width="40" height="40" />
 
 </p>
 
