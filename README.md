@@ -23,8 +23,6 @@ I'm an MCA Graduate and an aspiring software developer who loves building impact
 
 📧 Email: santhoshkumar.eml@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/santhoshkumars-sk/
-
 
 🤝 Connect With Me
 <p align="left">
