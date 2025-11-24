@@ -28,7 +28,7 @@ I'm an MCA Graduate and an aspiring software developer who loves building impact
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/santhoshkumars-sk/">
+  <a href="https://www.linkedin.com/in/santhoshkumar33/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
